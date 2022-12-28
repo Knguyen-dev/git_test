@@ -1,0 +1,3 @@
+For this new doc we are going to have better things to talk about
+Then we are going to do more things with those better things. 
+This text document right now is in a local repository or storage unit since its a new branch.
